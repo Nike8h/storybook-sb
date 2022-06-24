@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "App",
+			"path": "."
+		},
+		{
+			"name": "TailwindCSS",
+			"path": "node_modules/tailwindcss"
+		},
+		{
+			"name": "Tailwind Labs",
+			"path": "node_modules/@tailwindcss"
+		}
+	],
+	"settings": {}
+}
